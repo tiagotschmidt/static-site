@@ -1,0 +1,4 @@
+[submodule "notas/public"]
+	path = notas/public
+	url = https://github.com/tiagotschmidt/notas.github.io.git
+	branch = main
